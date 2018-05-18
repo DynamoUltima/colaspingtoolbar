@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".bank" />
+        <activity android:name=".add" />
+        <activity android:name=".ideas" />
+        <activity android:name=".links"></activity>
     </application>
 
 </manifest>
